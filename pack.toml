@@ -1,0 +1,13 @@
+name = "Client Modpack"
+author = "Almino Melo"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "3914efcc72db9e7ac7efe1b792d6031d2640ee80571bc3abe3eface6c00d1a44"
+
+[versions]
+fabric = "0.14.23"
+minecraft = "1.20.1"

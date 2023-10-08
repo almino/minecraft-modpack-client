@@ -1,0 +1,17 @@
+hash-format = "sha256"
+
+[[files]]
+file = ".direnv/nix-profile-.4112.5a237aecb572"
+hash = "d9587cbd25f36e94f8da2d1f326a7f9c1f4c2f93c478dc6e898c6ffb0da82810"
+
+[[files]]
+file = ".direnv/nix-profile-.4112.5a237aecb572.rc"
+hash = "ca15515b17ebd793d9902e9c84260a5320de617d478a216bea60565e1076ab84"
+
+[[files]]
+file = ".envrc"
+hash = "62fbcdefc5279c4af349ddf7770d4104d432e6faeff1afab121253bf8e36a677"
+
+[[files]]
+file = "shell.nix"
+hash = "ef64fa009ef863accb4c80a4e0ecad2c14293cf04ef3cc20abf9b494fb28dc0a"
